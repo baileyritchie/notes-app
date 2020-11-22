@@ -1,3 +1,11 @@
+
+# Project Overview
+
+Goal of the project is to help users create helpful notes. It features all CRUD (Create, Read, Update, Delete) applications. 
+
+## Folder Layout 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
