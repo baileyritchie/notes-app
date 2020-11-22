@@ -3,9 +3,13 @@
 
 Goal of the project is to help users create helpful notes. It features all CRUD (Create, Read, Update, Delete) applications. 
 
-## Folder Layout 
 
+## Requirements
 
+- Note Form to Create the Note (Button + Text Field Input )
+- Notes (dashboard) where all the notes can be viewed
+- Note will have functionality to delete and update (can be viewed on the note itself)
+- If any note changes or if any of the notes are deleted, the Notes Dashboard will change
 
 # Getting Started with Create React App
 
