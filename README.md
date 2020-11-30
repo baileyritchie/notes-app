@@ -10,7 +10,6 @@ Goal of the project is to help users create helpful notes. It features all CRUD 
 - Notes (dashboard) where all the notes can be viewed
 - Note will have functionality to delete and update (can be viewed on the note itself)
 - If any note changes or if any of the notes are deleted, the Notes Dashboard will change
--Jennifer and Bailey Team FUN
 
 # Getting Started with Create React App
 
