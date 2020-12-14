@@ -6,7 +6,7 @@ import App from './App';
 
 ReactDOM.render(
   <div>
-  <App />
+    <App />
   </div>,
   document.getElementById('root')
 );
